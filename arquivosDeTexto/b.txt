@@ -1,1 +1,2 @@
 Arquivo de Texto B.
+new B
